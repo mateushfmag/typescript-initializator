@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "commonjs",
+    "target": "es2022",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "baseUrl": ".",
+    "paths": {},
+    "strictNullChecks": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "typescript-initializator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ts-config": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateushfmag/typescript-initializator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateushfmag/typescript-initializator/issues"
+  },
+  "homepage": "https://github.com/mateushfmag/typescript-initializator#readme"
+}
